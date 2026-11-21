@@ -1,8 +1,8 @@
 # Friday 20 November 2026 — The World in One Day
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/news-image-20261120)
-[![news-image-20261120](https://img.shields.io/badge/competition-news--image--20261120-green)](https://make.fun/c/news-image-20261120)
-[![ares](https://img.shields.io/badge/entrant-ares-orange)](https://github.com/arestafirman/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/arestafirman/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/arestafirman/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world's news of **Friday 20 November 2026**:
 56 stories from 7 regions — 13 drawn features and 43 one-line briefs —
